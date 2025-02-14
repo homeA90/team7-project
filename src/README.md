@@ -1,11 +1,7 @@
 Test
 
-- seonseon933 commit
-
+- seonseon933 first commit
 - seongtae second commit
 - hwangJihwan thrid commit
-
-- seongtae second commit 
-
-- jihoon commit
+- jihoon fourth commit
 
